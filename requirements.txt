@@ -8,3 +8,6 @@ pytesseract>=0.3.10
 sentence-transformers>=2.2.2
 faiss-cpu>=1.7.4
 numpy>=1.25.0
+tesseract-ocr
+libtesseract-dev
+
